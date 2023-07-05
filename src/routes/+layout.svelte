@@ -1,6 +1,6 @@
 <script>
 	import '../app.css';
-	import ThemeSwitch from '../lib/ThemeSwitch.svelte';
+	import ThemeSwitch from '../lib/components/ThemeSwitch.svelte';
 </script>
 
 <ThemeSwitch />
